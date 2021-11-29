@@ -20,7 +20,7 @@ Aspiring full-stack web developer with a keen interest in working with product-b
 -------------------
 
 ## Contact
- <a href="https://www.linkedin.com/in/ravinder-singh-negi-3444bb1a6/">![LinkedIn](https://img.shields.io/badge/PrajalBankoti-%231DA1F2.svg?style=for-the-badge&logo=linkedIn&logoColor=white)</a>
+ <a href="https://www.linkedin.com/in/ravinder-singh-negi-3444bb1a6/">![LinkedIn](https://img.shields.io/badge/Ravinder2001-%231DA1F2.svg?style=for-the-badge&logo=linkedIn&logoColor=white)</a>
 
 -------------------
 
@@ -30,7 +30,7 @@ Aspiring full-stack web developer with a keen interest in working with product-b
   
 ![LachlanDev github stats](https://github-readme-stats.vercel.app/api?username=Ravinder2001&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-![LachlanDev github streak](https://github-readme-streak-stats.herokuapp.com/?user=prajal-Bankoti&theme=radical&include_all_commits=true&count_private=true)
+![LachlanDev github streak](https://github-readme-streak-stats.herokuapp.com/?user=Ravinder2001&theme=radical&include_all_commits=true&count_private=true)
 
  <div>
 
