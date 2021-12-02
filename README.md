@@ -3,12 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ravinder2001&label=Profile%20views&color=0e75b6&style=flat" alt="Ravinder2001" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
-
-- 💬 Ask me about **React/HTML/CSS/JAVASCRIPT**
-
-- ⚡ Fun fact **I ❤️ Digital Marketting**
-
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ravinder.vercel.app/)
