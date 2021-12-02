@@ -21,7 +21,7 @@ Aspiring full-stack web developer with a keen interest in working with product-b
 
 ## Contact
  <a href="https://www.linkedin.com/in/ravinder-singh-negi-3444bb1a6/">![LinkedIn](https://img.shields.io/badge/Ravinder2001-%231DA1F2.svg?style=for-the-badge&logo=linkedIn&logoColor=white)</a>
-https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg
+
 -------------------
 
 ### Languages and Tools  
