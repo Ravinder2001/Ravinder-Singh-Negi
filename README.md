@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pooran Suthar</h1>
+<h1 align="center">Hi 👋, I'm Ravinder Singh Negi</h1>
 <h3 align="center">An enthusiastic Full Stack Web Developer with a strong set of technical as well as non-technical skills and a dedication towards creating interactive web apps.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pooran8898&label=Profile%20views&color=0e75b6&style=flat" alt="pooran8898" /> </p>
@@ -34,9 +34,9 @@
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
   <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> </p>
 <h2 align="left">👷 Stats so far</h2>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pooran8898&show_icons=true&locale=en" alt="pooran8898" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pooran8898&" alt="pooran8898" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pooran8898&show_icons=true&locale=en&layout=compact" alt="pooran8898" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pooran8898&show_icons=true&locale=en" alt="Ravinder2001" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pooran8898&" alt="Ravinder2001" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pooran8898&show_icons=true&locale=en&layout=compact" alt="Ravinder2001" /></p>
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
   </p>
