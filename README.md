@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ravinder Singh Negi</h1>
-<h3 align="center">An enthusiastic Full Stack Web Developer with a strong set of technical as well as non-technical skills and a dedication towards creating interactive web apps.</h3>
+<h3 align="center">Dedicated and Ingenious full-stack web developer. Passionate about developing user-friendly websites. Possessing excellent problem-solving and multitasking skills as well as a good team player. Looking forward to being an integral part of a company and developing various products
+as a software engineer and developing my skills as a coder.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ravinder2001&label=Profile%20views&color=0e75b6&style=flat" alt="Ravinder2001" /> </p>
 
