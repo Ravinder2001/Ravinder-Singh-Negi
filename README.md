@@ -6,7 +6,7 @@
 <h3 font-size="20" align="center">A passionate full-stack developer and a student from India.</h3>
 
 
-- 👨‍💻 Checkout my portfolio [@ravinder](https://prajal.vercel.app/)
+- 👨‍💻 Checkout my portfolio [@ravinder](www.ravinder.vercel.app)
 
 - ⚡ Fun fact Coding is a passion and not profession.
 
