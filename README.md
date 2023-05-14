@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ravinder Singh Negi</h1>
+<h1 align="center">Hi 👋, I'm Ravi</h1>
 <h3 align="center">Dedicated and Ingenious full-stack web developer. Passionate about developing user-friendly websites. Possessing excellent problem-solving and multitasking skills as well as a good team player.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ravinder2001&label=Profile%20views&color=0e75b6&style=flat" alt="Ravinder2001" /> </p>
