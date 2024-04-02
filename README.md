@@ -5,7 +5,7 @@
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://release-v1.dmyyldw0sz0l4.amplifyapp.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://release-v1.d357he8kffvtji.amplifyapp.com/)
 
 
 <h2 align="left">☕ Let's Connect</h2>
